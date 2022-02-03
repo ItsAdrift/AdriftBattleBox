@@ -1,0 +1,4 @@
+name: AdriftBattleBoxBETA
+version: ${project.version}
+main: me.itsadrift.adriftbattleboxbeta.AdriftBattleBoxBETA
+api-version: 1.17
